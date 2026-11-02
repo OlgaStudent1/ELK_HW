@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «ELK»
+# Домашнее задание к занятию «ELK» Dunaevskaya Olga
 
  # Задание 1
  Elasticsearch: ![alt text](https://github.com/OlgaStudent1/ELK_HW/blob/main/img/Task_1.png)
